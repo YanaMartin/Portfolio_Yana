@@ -4,7 +4,7 @@ import sys
 
 #Battleship game against AI.
 
-#The board games of the player and the computer:
+#The game boards of the player and the computer:
 player_board = []
 for x in range(10):
     player_board.append(["."] * 10)  
